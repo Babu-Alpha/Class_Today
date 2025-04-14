@@ -1,0 +1,22 @@
+nav {
+  display: inline;
+}
+body {
+  font-family: roboto;
+}
+h1 {
+  color: brown;
+}
+h2 {
+  color: blue;
+  text-align: center;
+}
+video {
+  display: inline-block;
+}
+image {
+  display: inline;
+}
+table {
+  text-align: center;
+}
